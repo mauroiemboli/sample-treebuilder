@@ -1,0 +1,20 @@
+{
+  "name": "tree-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "keywords": [],
+  "author": "mauro.iemboli",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.4.1",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
